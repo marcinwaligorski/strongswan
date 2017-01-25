@@ -2,6 +2,6 @@ charon.plugins.revocation.enable_ocsp = yes
 	Whether OCSP fetching should be enabled.
 
 charon.plugins.revocation.enable_crl = yes
-        Whether CRL fetching should be enabled.
+	Whether CRL fetching should be enabled.
 
 
